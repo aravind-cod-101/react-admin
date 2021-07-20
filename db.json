@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One",
+      "body": "This the Post Body",
+      "publishedAt": "10-09-21"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This the Post Body",
+      "publishedAt": "10-09-21"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "This the Post Body",
+      "publishedAt": "10-09-21"
+    },
+    {
+      "title": "Post Four",
+      "body": "This is the body of post four",
+      "publishedAt": "13-09-24",
+      "id": "ueBn0OQ"
+    },
+    {
+      "title": "Django",
+      "body": "This is the body of post 5",
+      "publishedAt": "2021-07-20",
+      "id": "duVHjZj"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "johndoe@gmail.com"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "1",
+      "imageSrc": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2000&q=80"
+    },
+    {
+      "imageSrc": "https://unsplash.com/photos/YNliXm_hMn8",
+      "id": "kY_yVvl"
+    }
+  ]
+}
